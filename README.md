@@ -1,2 +1,3 @@
-# coding-test-practice
-coding test practice
+# android project structure 연습
+
+android project structure 연습하기
